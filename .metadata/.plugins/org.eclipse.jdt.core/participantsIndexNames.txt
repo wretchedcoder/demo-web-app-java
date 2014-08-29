@@ -1,3 +1,0 @@
-INDEX VERSION 1.127
-C:\git\Professional\demo-web-app-java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1153921224.index
-\gum-sprio-hib-psql\src\main\resources
