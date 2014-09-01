@@ -9,4 +9,6 @@ public interface IUserDao
     public int updateUser(User user);
     
     public User getUser(User user);
+    
+    public User getUser(String user);
 }
