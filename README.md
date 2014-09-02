@@ -8,15 +8,16 @@ What's with all the wierd abbreviations???
 
 Naming Convention:
 
-presentation-controller-model-database
+view-controller-model-database
 
 ========================================
-Presentation Layers
+View Layers
 ========================================
 
 Technology 			| Abbreviation
 --------------------+--------------
 Gumby CSS Framework	| gum
+JSP 				| jsp
 
 ========================================
 Controllers
@@ -25,6 +26,7 @@ Controllers
 Technology 			| Abbreviation
 --------------------+--------------
 Spring IO       	| sprio
+Java Servlet       	| servlet
 
 ========================================
 Model (Data Layer)
@@ -33,6 +35,7 @@ Model (Data Layer)
 Technology 			| Abbreviation
 --------------------+--------------
 Hibernate        	| hib
+Java 				| java
 
 ========================================
 Database

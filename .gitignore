@@ -1,4 +1,5 @@
 RemoteSystemsTempFiles/
 Servers/
 gum-sprio-hib-psql/target/
+jsp-servlet-java-psql/target/
 .metadata/
