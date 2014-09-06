@@ -16,8 +16,8 @@ View Layers
 
 Technology 			| Abbreviation
 --------------------+--------------
+Foundation			| fdn
 Gumby CSS Framework	| gum
-JSP 				| jsp
 
 ========================================
 Controllers
@@ -26,7 +26,7 @@ Controllers
 Technology 			| Abbreviation
 --------------------+--------------
 Spring IO       	| sprio
-Java Servlet       	| servlet
+JavaServer Pages	| jsp
 
 ========================================
 Model (Data Layer)
